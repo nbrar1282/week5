@@ -1,4 +1,4 @@
-.headings{
+/* .headings{
     color: red;
 
 
@@ -12,5 +12,18 @@
     background-color: beige;
 }
 #parris{
-    background-color: pink;
+    background-color: pink; */
+
+span{
+    padding: 0px 5px;
+    border-top: 2px solid black ;
+    border-bottom:  4px solid gray;
+
+
+
+
+}
+p{
+    border: 10px ridge green;
+    margin: 5px;
 }
